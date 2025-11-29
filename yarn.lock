@@ -479,13 +479,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@goldlabelapps/core@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "@goldlabelapps/core@npm:0.1.0"
+"@goldlabelapps/core@npm:^0.1.1":
+  version: 0.1.1
+  resolution: "@goldlabelapps/core@npm:0.1.1"
   peerDependencies:
     react: ^18.0.0
     react-dom: ^18.0.0
-  checksum: 10c0/0acc67a101a6957a4cd54b0b5b44cb0367cbc331c6d8c8eefd65f438e077e0ab99f4a0dd87873fa737b993617d86fada12e686c47ba88f7e868dbaa8da2870e2
+  checksum: 10c0/d83d92f81570f3b61acebf0131ba239b13fa2b471f4d2b77492f8f44684ff3ae4c5440ea936bfb2bd271d9738a46c017020270c9628553158c9050752e9366f2
   languageName: node
   linkType: hard
 
@@ -2575,7 +2575,7 @@ __metadata:
   resolution: "vite-example@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.39.1"
-    "@goldlabelapps/core": "npm:^0.1.0"
+    "@goldlabelapps/core": "npm:^0.1.1"
     "@types/node": "npm:^24.10.1"
     "@types/react": "npm:^19.2.5"
     "@types/react-dom": "npm:^19.2.3"
